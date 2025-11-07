@@ -3,6 +3,7 @@
 // @namespace    https://github.com/CommendMe
 // @version      1.1
 // @author       Wegaaa
+// @license      MIT
 // @description  Hide obvious wpDiscuz spam without breaking page behaviour
 // @match        https://www.learncpp.com/*
 // @run-at       document-end
