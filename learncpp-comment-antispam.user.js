@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LearnCpp Comment Antispam
 // @namespace    https://github.com/rawafh
-// @version      1.1
+// @version      1.2
 // @author       rawafh
 // @license      MIT
 // @description  Hide obvious wpDiscuz spam without breaking page behaviour
