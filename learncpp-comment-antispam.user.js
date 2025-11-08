@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         LearnCpp Comment Antispam
-// @namespace    https://github.com/CommendMe
+// @namespace    https://github.com/rawafh
 // @version      1.1
-// @author       Wegaaa
+// @author       rawafh
 // @license      MIT
 // @description  Hide obvious wpDiscuz spam without breaking page behaviour
 // @match        https://www.learncpp.com/*
 // @run-at       document-end
 // @grant        none
-// @updateURL    https://github.com/CommendMe/learncpp-comment-antispam/raw/main/learncpp-comment-antispam.user.js
-// @downloadURL  https://github.com/CommendMe/learncpp-comment-antispam/raw/main/learncpp-comment-antispam.user.js
+// @updateURL    https://github.com/rawafh/learncpp-comment-antispam/raw/main/learncpp-comment-antispam.user.js
+// @downloadURL  https://github.com/rawafh/learncpp-comment-antispam/raw/main/learncpp-comment-antispam.user.js
 // ==/UserScript==
 
 (() => {
