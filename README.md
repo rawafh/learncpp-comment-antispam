@@ -9,7 +9,7 @@ A lightweight userscript that removes offensive or vertical "wall" spam from the
 - Doesn't break any functionality.
 
 ## Installation
-[Click here to install](https://raw.githubusercontent.com/CommendMe/learncpp-comment-antispam/refs/heads/main/learncpp-comment-antispam.user.js
+[Click here to install](https://raw.githubusercontent.com/rawafh/learncpp-comment-antispam/refs/heads/main/learncpp-comment-antispam.user.js
 )
 
 Requires Violentmonkey or Tampermonkey.
